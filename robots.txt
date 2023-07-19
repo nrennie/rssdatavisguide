@@ -1,0 +1,1 @@
+Sitemap: https://royal-statistical-society.github.io/datavisguide/sitemap.xml
